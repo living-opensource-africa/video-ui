@@ -7,24 +7,12 @@
       "platform": "chromeos_play"
     }
   ],
-  "short_name": "Jitsi Meet",
-  "name": "Jitsi Meet",
+  "short_name": "LOS Events",
+  "name": "LOS Events",
   "icons": [
     {
-      "src": "static/pwa/icons/icon192.png",
-      "type": "image/png",
-      "sizes": "192x192"
-    },
-    {
-      "src": "static/pwa/icons/icon512.png",
-      "type": "image/png",
-      "sizes": "512x512"
-    },
-    {
-      "src": "static/pwa/icons/iconMask.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "maskable"
+      "src": "images/jitsilogo.png",
+      "type": "image/png"
     }
   ],
   "start_url": "/",
