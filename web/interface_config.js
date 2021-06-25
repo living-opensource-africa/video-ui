@@ -143,17 +143,17 @@ var interfaceConfig = {
     /**
      * Specify custom URL for downloading android mobile app.
      */
-    // MOBILE_DOWNLOAD_LINK_ANDROID: 'https://play.google.com/store/apps/details?id=org.jitsi.meet',
+    MOBILE_DOWNLOAD_LINK_ANDROID: 'https://play.google.com/store/apps/details?id=org.jitsi.meet',
 
     /**
      * Specify custom URL for downloading f droid app.
      */
-    // MOBILE_DOWNLOAD_LINK_F_DROID: 'https://f-droid.org/en/packages/org.jitsi.meet/',
+    MOBILE_DOWNLOAD_LINK_F_DROID: 'https://f-droid.org/en/packages/org.jitsi.meet/',
 
     /**
      * Specify URL for downloading ios mobile app.
      */
-    // MOBILE_DOWNLOAD_LINK_IOS: 'https://itunes.apple.com/us/app/jitsi-meet/id1165103905',
+    MOBILE_DOWNLOAD_LINK_IOS: 'https://itunes.apple.com/us/app/jitsi-meet/id1165103905',
 
     NATIVE_APP_NAME: 'LOS Events',
 
